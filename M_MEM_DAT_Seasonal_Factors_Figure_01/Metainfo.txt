@@ -1,0 +1,21 @@
+Name of Quantlet: MEM_DAT_Seasonal_Factors
+
+Published in: Journal of Applied Econometrics 30(4): 529-550
+
+Description: Estimated intra-day periodicity components for cumulative one-minute trading volumes (in units of
+100,000 and plotted against the time of the day) of selected companies at NASDAQ on 2 September (lower, lowest
+30-day trading volume) and 30 October 2008 (upper, highest 30-day volume)
+
+Keywords: ...
+
+See also: ...
+
+Author: Wolfgang Karl Härdle, Nikolaus Hautsch, Andrija Mihoci
+
+Submitted:  Andrija Mihoci
+
+Datafile: ALL5_2008_Volume1, ALL5_2008_Days1
+
+Example: 'Local Adaptive Multiplicative Error Models for High-Frequency Forecasts', Figure 1
+
+
