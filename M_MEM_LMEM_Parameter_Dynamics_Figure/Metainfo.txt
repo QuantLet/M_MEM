@@ -7,16 +7,14 @@ Description: 'Time series of estimated weekly (left panel, rolling windows cover
 seasonally adjusted 1-minute trading volumes for Intel Corporation (INTC) at each minute from 22 February to
 31 December 2008'
 
-Keywords: local, adaptive, error, estimation, forecast
+Keywords: local, adaptive, error, estimation, forecast, frequency, parameter
 
-See also: M_MEM_LMEM_Parameter_Dynamics_Results,  M_MEM_LMEM_Parameter_Dynamics_Results
+See also: M_MEM_DAT_Seasonal_Factors,  M_MEM_LMEM_Parameter_Dynamics_Results
 
-Author: Wolfgang Karl Härdle, Nikolaus Hautsch, Andrija Mihoci
+Author: Wolfgang Karl HÃ¤rdle, Nikolaus Hautsch, Andrija Mihoci
 
 Submitted: Thu, January 12 2017 by Andrija Mihoci
 
 Datafile: INTC_EACD_Theta
 
-Example: Figure 2
-
-
+Example: M_MEM_LMEM_Parameter_Dynamics_Plot

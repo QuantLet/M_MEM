@@ -6,16 +6,12 @@ Description: 'Estimated EACD(1, 1) parameters and functions thereof based on
 seasonally adjusted 1-minute trading volumes for all selected stocks at each minute from 22 February to
 31 December 2008'
 
-Keywords: local, adaptive, error, estimation, forecast
+Keywords: local, adaptive, error, estimation, forecast, parameter, frequency
 
 See also: M_MEM_DAT_Seasonal_Factors, M_MEM_LMEM_Parameter_Dynamics_Figure
 
-Author: Wolfgang Karl Härdle, Nikolaus Hautsch, Andrija Mihoci
+Author: Wolfgang Karl HÃ¤rdle, Nikolaus Hautsch, Andrija Mihoci
 
 Submitted:  Thu, January 12 2017 by Andrija Mihoci
 
 Datafile: ALL5_2008_Volume1_Adjusted360_M6
-
-Example: Figure 2
-
-
