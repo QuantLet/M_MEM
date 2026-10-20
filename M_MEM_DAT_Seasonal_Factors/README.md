@@ -9,7 +9,7 @@ Name of Quantlet: M_MEM_DAT_Seasonal_Factors
 
 Published in: Local Adaptive Multiplicative Error Models for High-Frequency Forecasts
 
-Description: Estimates intra-day periodicity components for cumulative one minute trading volumes (in units of
+Description: Estimates intra-day periodicity components for cumulative one minute trading volumes (in units of 100,000 and plotted against the time of the day) of selected companies at NASDAQ on 2 September (lower, lowest 30-day trading volume) and 30 October 2008 (upper, highest 30-day volume)
 
 Keywords: local, adaptive, error, estimation, forecast, frequency, plot
 
