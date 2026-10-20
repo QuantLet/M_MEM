@@ -9,7 +9,7 @@ Name of Quantlet: M_MEM_LMEM_Parameter_Dynamics_Results
 
 Published in: Local Adaptive Multiplicative Error Models for High-Frequency Forecasts
 
-Description: Estimated EACD(1, 1) parameters and functions thereof based on
+Description: Estimated EACD(1, 1) parameters and functions thereof based on seasonally adjusted 1-minute trading volumes for all selected stocks at each minute from 22 February to 31 December 2008
 
 Keywords: local, adaptive, error, estimation, forecast, parameter, frequency
 
