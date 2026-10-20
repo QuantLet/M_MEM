@@ -9,7 +9,7 @@ Name of Quantlet: M_MEM_LMEM_Parameter_Dynamics_Figure
 
 Published in: Local Adaptive Multiplicative Error Models for High-Frequency Forecasts
 
-Description: Time series of estimated weekly (left panel, rolling windows covering 1800 observations) and daily
+Description: Time series of estimated weekly (left panel, rolling windows covering 1800 observations) and daily (right panel, rolling windows covering 360 observations) EACD(1, 1) parameters and functions thereof based on seasonally adjusted 1-minute trading volumes for Intel Corporation (INTC) at each minute from 22 February to 31 December 2008
 
 Keywords: local, adaptive, error, estimation, forecast, frequency, parameter
 
